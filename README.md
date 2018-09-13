@@ -14,6 +14,14 @@ Here are some paper sketches from our initial planning phase:
 ![alt text](img/designsketches/ios2.JPG "iOS Sketches-2")
 ![alt text](img/designsketches/desktop.JPG "Desktop")
 
+Here are some wireframe images from our prototyping phase:
+
+![alt text](img/iOS-lhtp-home.png "iOS Sketches-1")
+![alt text](img/iOS-lhtp-track-menu.png "iOS Sketches-1")
+![alt text](img/iOS-lhtp-track-home.png "iOS Sketches-1")
+![alt text](img/iOS-lhtp-track-section.png "iOS Sketches-1")
+![alt text](img/iOS-lhtp-lesson.png "iOS Sketches-1")
+
 ## Setup/Installation Requirements
 
 * Download the files.
