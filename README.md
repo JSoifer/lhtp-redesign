@@ -8,6 +8,12 @@
 
 A redesign of learnhowtoprogram.com with emphasis on user experience. Targeted users include: students, teachers/admin and employers seeking talent.
 
+Here are some paper sketches from our initial planning phase:
+
+![alt text](img/designsketches/ios1.JPG "iOS Sketches-1")
+![alt text](img/designsketches/ios2.JPG "iOS Sketches-2")
+![alt text](img/designsketches/desktop.JPG "Desktop")
+
 ## Setup/Installation Requirements
 
 * Download the files.
