@@ -1,6 +1,6 @@
 # Learn How To Program Redesign
 
-#### A redesign of learnhowtoprogram.com, 11 Sept 2018_
+#### A redesign of learnhowtoprogram.com, 11 Sept 2018
 
 #### By Julianne Soifer, Eric Conner
 
@@ -25,12 +25,11 @@ Here are some wireframe images from our prototyping phase:
 ## Setup/Installation Requirements
 
 * Download the files.
-* Open the html file with a web browser. Google Chrome is optimal.
-* Maybe dig it???
+* Preview the prototype with Sketch.
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+No known bugs.
 
 ## Support and contact details
 
